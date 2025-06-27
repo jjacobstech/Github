@@ -22,6 +22,27 @@ Highlight the key features of your project.
 
 ---
 
+# Project Submission Evaluation
+
+## Feedback Summary
+
+**Strengths:**  
+- None identified.
+
+**Weaknesses:**  
+- The submission does not meet any of the instructor's instructions or content requirements.
+- Only a comment referencing "Github" is present; there is no code, setup information, images, or documentation.
+- No steps are shown for GitHub account creation, dashboard setup, or any DevOps instructions.
+- Required confirmations or screenshots for Visual Studio Code, Git installation, VirtualBox, Ubuntu installations, GitHub, or AWS account setups are missing.
+- The project contains no actionable or relevant content as required by the instructor's rubric.
+
+**Assessment:**  
+No valid objectives were fulfilled. The submission receives no marks.
+
+---
+
+*This evaluation replaces previous content to reflect the current status of the submission as per the provided rubric and grading criteria.*
+
 ### Installation
 
 1. Clone the repository:
